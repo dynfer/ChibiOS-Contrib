@@ -19,8 +19,6 @@
  * @brief   LCD-TFT Controller Driver.
  */
 
-#include "hal.h"
-
 #include "hal_stm32_ltdc.h"
 
 #if (TRUE == STM32_LTDC_USE_LTDC) || defined(__DOXYGEN__)
